@@ -4,8 +4,7 @@ Hola, soy Smith Gómez!
 <br/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=35&pause=1000&color=164C64&center=true&vCenter=true&width=747&lines=Estudiante+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+Full+Stack+JavaScript;La+mejor+forma+de+predecir+el+futuro++es+crearlo" alt="Typing SVG" /></a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&color=164C64&center=true&vCenter=true&width=747&lines=Estudiante+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+Full+Stack+JavaScript;La+mejor+forma+de+predecir+el+futuro++es+crearlo" alt="Typing SVG" /></a></div>
 <hr/>
 
 ## 🛠️ My Favorite Tools
