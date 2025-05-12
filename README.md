@@ -3,9 +3,11 @@ Hola, soy Smith Gómez!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=29&pause=1000&color=164C64&center=true&vCenter=true&width=747&lines=Estudiante+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+Full+Stack+JavaScript;La+mejor+forma+de+predecir+el+futuro++es+crearlo" alt="Typing SVG" /></a>
+<div/>
+<hr/>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=29&pause=1000&color=164C64&center=true&vCenter=true&width=747&lines=Estudiante+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+Full+Stack+JavaScript;La+mejor+forma+de+predecir+el+futuro++es+crearlo" alt="Typing SVG" /></a><hr/>
-
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages
@@ -37,6 +39,7 @@ Hola, soy Smith Gómez!
 <p>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<div/>
 </p>
 
 ## 📊 Github Stats
