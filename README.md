@@ -6,7 +6,7 @@
 <!-- Random Dev Quote -->
 ### ✍️ Random Dev Quote
 
-![Readme Quotes](![image](https://github.com/user-attachments/assets/960edd3a-5869-4e03-ac83-a11b461a8701)
+![Readme Quotes](https://warayana.com.pe/publicaciones/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-29-at-5.11.27-PM-736x410.jpeg)
 )
 
 <hr/>
