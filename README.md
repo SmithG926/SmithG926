@@ -3,12 +3,12 @@ Hola, soy Smith Gómez!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-<div align="left">
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=29&pause=1000&color=164C64&center=true&vCenter=true&width=747&lines=Estudiante+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+Full+Stack+JavaScript;La+mejor+forma+de+predecir+el+futuro++es+crearlo" alt="Typing SVG" /></a>
 <div/>
 <hr/>
-<div align="center">
-## 🛠️ My Favorite Tools
+<div align="left">
+<h1>  🛠️ My Favorite Tools </h1>
 
 ### 👨‍💻 Programming Languages
 
