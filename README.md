@@ -2,7 +2,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=164C64&center=true&vCenter=true&width=435&lines=Estudiante+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrrollador+Full+Stack+JavaScript;La+mejor+forma+de+predecir+el+futuro;+es+crearlo" alt="Typing SVG" /></a>
 
+<!-- Random Dev Quote -->
+### ✍️ Random Dev Quote
 
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&hide_border=true&show_icons=true)
+
+<hr/>
 
 
 
