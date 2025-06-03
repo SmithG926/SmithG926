@@ -49,7 +49,7 @@ Hola, soy Smith Gómez!
 
 
 <div align="center">
-  <img src="https://warayana.com.pe/publicaciones/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-29-at-5.11.27-PM-736x410.jpeg" width="474" alt="MementoMori_MementoVivere">
+  <img src="https://ih1.redbubble.net/image.5423603687.4811/st,extra_large,507x507-pad,600x600,f8f8f8.webp" width="474" alt="MementoMori_MementoVivere">
 </div>
 
 
